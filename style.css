@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color:rgba(1, 66, 32, 0.7)
 }
  body {
     display: flex;
@@ -40,6 +41,7 @@
 }
 
 #go {
+    background-color:rgba(230, 255, 242,0.3) ;
     width: 50%;
 }
 
